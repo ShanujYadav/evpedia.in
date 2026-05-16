@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "india-accelerates-clean-mobility-infrastructure",
+    "title": "India accelerates clean mobility infrastructure",
+    "description": "State-backed funding and private investment are converging to scale EV charging corridors across major freight and commuter routes.",
+    "content": "India's transport transition is entering a new phase as charging corridors, battery-backed depots, and urban last-mile fleets expand together. Analysts say the momentum comes from a combination of policy certainty, lower battery costs, and local operating data that now makes infrastructure planning more precise. Operators are focusing less on raw charger count and more on uptime, queue times, and grid resilience. That shift is pushing the market toward smarter software orchestration, stronger maintenance standards, and station formats tailored to actual travel behavior.\n\nThe next wave of deployment is expected to center on intercity reliability and mixed-use hubs where passenger vehicles, logistics fleets, and public transit can share infrastructure. For consumers, that means shorter waits and wider confidence in EV travel. For operators, it means a sharper need for differentiated service quality, subscription products, and partnerships with retail destinations that can monetize dwell time.",
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "category": "Mobility",
+    "publishedAt": "2026-03-14T09:00:00.000Z",
+    "featured": true
+  },
+  {
+    "slug": "global-tech-stocks-rally-on-ai-expansion",
+    "title": "Global tech stocks rally on AI expansion",
+    "description": "Chipmakers, cloud providers, and enterprise software firms led gains as AI spending plans widened across regions.",
+    "content": "Markets opened the week with another broad rally in technology shares as investors continued to reward companies tied to AI infrastructure and software adoption. Executives have shifted from exploratory messaging to measurable rollouts, with spending plans increasingly tied to customer retention, automation savings, and new premium product tiers.\n\nThe strongest gains came from firms positioned in the middle layers of the AI stack: compute, data orchestration, and enterprise deployment. Traders remain cautious about valuation, but the current thesis is that near-term revenue visibility has improved enough to justify renewed appetite for risk across the sector.",
+    "imageUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1200&q=80",
+    "category": "Business",
+    "publishedAt": "2026-03-13T13:30:00.000Z",
+    "featured": true
+  },
+  {
+    "slug": "city-newsrooms-adopt-audience-first-video-strategy",
+    "title": "City newsrooms adopt audience-first video strategy",
+    "description": "Publishers are reshaping local coverage around vertical clips, explainers, and social-first live updates.",
+    "content": "Regional publishers are rebuilding newsroom workflows around mobile-native video as they chase younger audiences and real-time engagement. Instead of producing one long package per story, teams are splitting coverage into rapid explainers, live context updates, and recap formats optimized for each platform.\n\nEditors say the strategy works best when video is treated as a reporting tool rather than a promotional afterthought. That means investing in script discipline, visual verification, and repeatable packaging so breaking coverage can move quickly without sacrificing trust.",
+    "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "category": "Media",
+    "publishedAt": "2026-03-12T10:15:00.000Z",
+    "featured": false
+  },
+  {
+    "slug": "smart-grid-upgrades-reshape-urban-energy-demand",
+    "title": "Smart grid upgrades reshape urban energy demand",
+    "description": "Utilities are pairing digital monitoring with flexible pricing to balance rising electricity demand in large cities.",
+    "content": "Utilities in several high-growth cities are upgrading substations, deploying real-time monitoring, and experimenting with dynamic pricing models to better manage demand. The pressure comes from simultaneous electrification across homes, offices, and mobility networks, which makes older forecasting models less reliable.\n\nGrid planners say visibility is now as important as raw generation. With better telemetry, operators can defer some capital-heavy upgrades, identify stress points earlier, and align consumption with cheaper and cleaner supply windows. The long-term implication is a grid that behaves more like an adaptive network than a static utility asset.",
+    "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&q=80",
+    "category": "Energy",
+    "publishedAt": "2026-03-11T07:45:00.000Z",
+    "featured": false
+  },
+  {
+    "slug": "women-athletes-drive-record-streaming-engagement",
+    "title": "Women athletes drive record streaming engagement",
+    "description": "Leagues and platforms reported stronger watch time as marquee matchups translated into wider digital reach.",
+    "content": "Streaming platforms are seeing sustained audience growth around women's sports, with major events now driving watch time far beyond live game windows. Highlights, behind-the-scenes access, and explainer programming are all contributing to a larger engagement funnel that keeps fans returning between fixtures.\n\nRights holders view the trend as more durable than a one-season spike. Sponsorship packages are expanding, production quality is improving, and audience data suggests stronger crossover appeal among younger viewers who discover teams and athletes through short-form platforms first.",
+    "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80",
+    "category": "Sports",
+    "publishedAt": "2026-03-10T17:20:00.000Z",
+    "featured": false
+  },
+  {
+    "slug": "climate-data-startups-attract-fresh-capital",
+    "title": "Climate data startups attract fresh capital",
+    "description": "Investors are backing firms that turn fragmented environmental datasets into operational insight for businesses.",
+    "content": "A new financing cycle is forming around climate data platforms that help enterprises interpret weather volatility, emissions exposure, and supply-chain disruption. Instead of selling raw datasets, newer companies are packaging analytics into planning tools used by procurement, insurance, and operations teams.\n\nThe category is appealing because its value proposition is increasingly tied to near-term decisions rather than distant sustainability narratives. Buyers want actionable risk signals, and startups that can blend scientific credibility with usable interfaces are finding a receptive market.",
+    "imageUrl": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?auto=format&fit=crop&w=1200&q=80",
+    "category": "Climate",
+    "publishedAt": "2026-03-09T11:05:00.000Z",
+    "featured": false
+  }
+]
